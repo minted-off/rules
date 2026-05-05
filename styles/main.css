@@ -314,7 +314,7 @@ strong {
 
 .rule-list__item::marker {
 	color: var(--color-primary);
-	font-weight: 760;
+	font-weight: 550;
 }
 
 .rule-list__item--danger {
